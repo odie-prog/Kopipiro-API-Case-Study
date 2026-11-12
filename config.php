@@ -14,6 +14,6 @@ $pdo = new PDO(
 );
 
 const DISCOUNT_RATE = 0.10; // 10% for logged-in customers
-const MIDTRANS_SERVER_KEY = 'SB-Mid-server-ddi_k0_N7YkkFZdvA7Hgz8nJ';
+const MIDTRANS_SERVER_KEY = 'PASTE_KEY_HERE';
 // SB-Mid-server-ddi_k0_N7YkkFZdvA7Hgz8nJ
 ?>
